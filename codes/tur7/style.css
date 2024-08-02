@@ -1,0 +1,38 @@
+.nav-logo {
+    height: 60px;
+    padding-left: 20px;
+}
+.mass-body {
+    height: 100vh;
+    background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/04/Solid-Black-Website-Background.jpg');
+
+}
+.item-nav {
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.item-nav:hover{
+    color: rgb(106, 255, 0);
+    transform: scale(1.2);
+}
+.ml-auto {
+    margin-left: 850px;
+}
+.ssv-image {
+    height: 250px;
+}
+.box {
+    color: white;
+    align-items: end;
+    margin-bottom: 20px;
+    padding-left: 100px;
+}
+.about-me {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.about-me1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(13, 238, 13);
+}
