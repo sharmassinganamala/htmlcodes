@@ -3,7 +3,6 @@
     padding-left: 20px;
 }
 .mass-body {
-    height: 100vh;
     background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/04/Solid-Black-Website-Background.jpg');
 
 }
@@ -35,4 +34,60 @@
 .about-me1 {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(13, 238, 13);
+}
+.about-me2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(13, 228, 13);
+    text-align: center;
+}
+.card {
+    background: transparent;
+    border: white 1px solid;
+}
+.cd-h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cd-p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.instagram {
+    height: 30px;
+}
+.social-info {
+    text-align: center;
+}
+
+.social-icons {
+    display: inline-flex;
+    justify-content: center;
+    gap: 10px; /* Adjust the gap between icons as needed */
+}
+
+.social-icon {
+    max-width: 100px; /* Adjust the max width as needed */
+    height: auto;
+}
+.mail {
+    text-align: center;
+}
+.card:hover{
+    transform: scale(1.03);
+    border-color: greenyellow;
+}
+.box:hover{
+    transform: scale(1.03);
+}
+.about-me2:hover {
+    transform: scale(1.03);
+}
+.navbar-brand:hover {
+    transform: scale(1.03);
+}
+.instagram:hover {
+    transform: scale(1.2);
+}
+.mail:hover {
+    transform: scale(1.2);
 }
