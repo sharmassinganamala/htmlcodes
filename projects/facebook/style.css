@@ -1,0 +1,51 @@
+.box{
+    margin-top: 180px;
+}
+.sharmas {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.sharmas1 {
+    color: rgb(0, 66, 208);
+}
+.anchor {
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: white;
+    padding: 80px;
+}
+.email ,
+.password  {
+    margin-bottom: 10px;
+}
+.login {
+    background-color: rgb(0, 66, 208);
+    margin-top: 10px;
+    width: 190px;
+    border: 0px;
+}
+.forgot {
+    color: rgb(0, 66, 208);
+    font-size: medium;
+    margin-top: 15px;
+    text-decoration: none;
+}
+.create1 {
+    font-size: small;
+    background-color: rgb(29, 203, 29);
+    border: rgb(29, 203, 29) 2px solid ;
+    margin-top: 10px;
+}
+.mass-body {
+    background-color: aliceblue;
+}
+.face {
+    color: rgb(0, 66, 208);
+    margin-bottom: 10px;
+}
+.forgot:hover {
+    transform: scale(1.2);
+
+}

@@ -1,0 +1,71 @@
+.mass-body {
+    background-color: aliceblue;
+}
+.box {
+    margin-top: 100px;
+    height: 400px;
+    width: 50%;
+    background-color: rgb(65, 80, 239);
+}
+.anchor {
+    background-color: white;
+    margin-top: 100px;
+}
+.logo {
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 35%;
+    margin-top: 90px;
+}
+.heading {
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+    padding-left: 32%;
+    margin-bottom: 10px;
+    color: white;
+    font-style: italic;
+
+}
+.login {
+    font-size: larger;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.login1 {
+    font-size: small;
+    margin-left: 10px;
+}
+.email-box {
+    margin-left: 90px;
+    margin-top: 5px;
+    border-radius: 1000px;
+}
+.password-box {
+    margin-left: 90px;
+    margin-top: 5px;
+}
+.button {
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: white;
+    border: rgb(65, 80, 239) solid 1px;
+    color: rgb(65, 80, 239);
+    border-radius: 20px; 
+    }
+    
+.button:hover {
+    background-color: #2980b9; /* Darker shade on hover */
+}
+    
+.button1 {
+    margin-left:110px;
+    margin-top: 10px;
+    background-color: rgb(65, 80, 239);
+    border: 0px;
+    color: white;
+    border-radius: 20px;
+}

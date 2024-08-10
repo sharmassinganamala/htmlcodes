@@ -1,0 +1,30 @@
+.email {
+    width: 200px;
+    margin-top: 5px;
+    height: 20px;
+}
+.password {
+    width: 200px;
+    margin-top: 5px;
+    height: 20px;
+}
+.main_body {
+    padding-left: 80px;
+    padding-bottom: 80px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 150px;
+}
+.forgot {
+    margin-top: 50px;
+    color: black;
+    text-decoration: none;
+}
+.signup {
+    padding-left: 20px;
+    color: black;
+    text-decoration: none;
+}
+.sharmas {
+    background-image: url(https://jesuschristformuslims.com/wp-content/uploads/2017/05/Do-not-be-afraid-of-human-beings-only-fear-your-God-Jesus-Christ-for-Muslim-World.jpg);
+}

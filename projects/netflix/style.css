@@ -1,0 +1,93 @@
+.logo {
+    height: 80px;
+    background-color: transparent;
+    align-items: baseline;
+}
+.mass-body {
+    background-image: url('https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4');
+}
+.navbar-brand {
+    display: flex;
+    align-items: flex-start;
+}
+.email-box{
+    width: 100%;
+    padding: 7px;
+    font-size: large;
+    color: aqua;
+}
+.login-section {
+    background: rgb(37, 0, 64);
+    padding: 200px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;
+    text-align: center
+}
+
+.email2 {
+    padding-bottom: 200px;
+}
+
+html, body {
+    height: 80%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sharmas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    border: 1px solid black; /* You can change the color and thickness as needed */
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for better visibility */
+    background-color: rgba(0, 0, 0, 0.305);/* Optional: Add background color */
+    text-align : center; /* Center text inside the box */
+}
+
+.email1 {
+    margin-bottom: 15px; /* Add some space between the input fields and buttons */
+}
+
+.sign-button, .code {
+    padding: 2px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: red;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    width: 90%;
+    margin-top: 10px;
+}
+
+.or {
+    margin-top: 5px;
+    color: white;
+}
+.sign-text {
+    color: rgb(238, 229, 229);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
