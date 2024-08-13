@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins' , 'sans-serif';
+}
+body {
+
+    background-image: url(https://3.bp.blogspot.com/-_9EUF8htAio/Timnz6z_vII/AAAAAAAAC8g/6o4uY5nY0rQ/s1600/google+free+wallpaper-1.jpg);
+
+}
+.close-icon {
+    height: 15px;
+    margin-right: 8px;
+}
+.home-top {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 8px;
+}
+.reload {
+    height: 15px;
+    margin-left: 80px;
+}
+.search-bar {
+    margin-top: 10px;
+}
+.search {
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    width: 1000px;
+    border-radius: 50px;
+    height:25px;
+    text-align: center;
+}
+.home-middle {
+    display: flex;
+    margin-left: 5px;
+}
+.about {
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 2px;
+
+}
+.home-middle .about1 {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 950px;
+    margin-top: 20px;
+
+}
+.about2{
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+.profile {
+    height: 35px;
+    margin-top: 10px;
+
+}
+.homepage {
+    text-align: center;
+    margin-top: 120px;
+    
+
+}
+.heading {
+    height: 50px;
+    font-size: 350%;
+}
+.search1 {
+    width: 300px;
+    border-radius: 50px;
+    height: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.homepage .para{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 15px;
+    border: 1px grey solid;
+    margin-left: 530px;
+    margin-right: 530px;
+    color: black;
+    background-color: cornsilk;
+}
+.para:hover {
+    transform: scale(1.1);
+}
+.about:hover {
+    transform: scale(1.1);
+}
+.about1:hover {
+    transform: scale(1.1);
+}
+.about2:hover {
+    transform: scale(1.1);
+}
